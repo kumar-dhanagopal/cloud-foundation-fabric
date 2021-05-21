@@ -1,10 +1,22 @@
 # Deploy a Terraform configuration
 
-This tutorial walks you through the steps to deploy Terraform example configurations that you downloaded from this repository.
+This tutorial walks you through the steps to deploy Terraform example configurations that you downloaded from the [Terraform Examples and Modules for Google Cloud repository](https://github.com/terraform-google-modules/cloud-foundation-fabric).
+
+## Let's get started!
+
+If you haven't already downloaded or cloned the repository, use any of the following commands to get the code now:
+- Using `git`:
+  ```
+  git clone https://github.com/terraform-google-modules/cloud-foundation-fabric.git
+  ```
+- Using the GitHub CLI:
+  ```
+  gh repo clone terraform-google-modules/cloud-foundation-fabric
+  ```
 
 ## (Optional) Configure the Terraform variables
 
-The Terraform code includes variables that you can use to customize the deployment based on your requirements.
+The Terraform code that you downloaded includes variables that you can use to customize the deployment based on your requirements.
 - Some of the variables have a default value, which you can change. 
 - For variables that don't have a default value, you can either assign a value beforehand, or enter a value when Terraform prompts you to do so while running any Terraform command.
 
