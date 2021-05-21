@@ -1,10 +1,10 @@
 # Deploy a Terraform configuration
 
-This tutorial walks you through the steps to deploy Terraform example configurations that you downloaded from the [Terraform Examples and Modules for Google Cloud repository](https://github.com/terraform-google-modules/cloud-foundation-fabric).
+This tutorial walks you through the steps to deploy the Terraform example configurations for Google Cloud available in the GitHub repository, [Terraform Examples and Modules for Google Cloud repository](https://github.com/terraform-google-modules/cloud-foundation-fabric). These examples are provided and maintained by Google.
 
 ## Let's get started!
 
-If you haven't already downloaded or cloned the repository, use any of the following commands to get the code now:
+If you haven't already downloaded or cloned the repository, get the code now:
 - Using `git`:
   ```
   git clone https://github.com/terraform-google-modules/cloud-foundation-fabric.git
