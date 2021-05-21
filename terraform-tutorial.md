@@ -20,7 +20,9 @@ The Terraform code that you downloaded includes variables that you can use to cu
 - Some of the variables have a default value, which you can change. 
 - For variables that don't have a default value, you can either assign a value beforehand, or enter a value when Terraform prompts you to do so while running any Terraform command.
 
-If you choose to configure the variables ahead of running the Terraform commands, or if you want to change any of the default values, complete the following steps. Otherwise, skip this section.
+**If you want to use the default values or enter values while running the Terraform commands, skip this section.**
+
+Otherwise, complete the following steps:
 
 1.  Go to the directory that contains the example configuration that you want to deploy (for example, `networking/hub-and-spoke-vpn`).
 
