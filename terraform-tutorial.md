@@ -6,11 +6,11 @@ This tutorial walks you through the steps to deploy the Terraform example config
 
 If you haven't already downloaded or cloned the repository, get the code now:
 - Using `git`:
-  ```
+  ```shell
   git clone https://github.com/terraform-google-modules/cloud-foundation-fabric.git
   ```
 - Using the GitHub CLI:
-  ```
+  ```shell
   gh repo clone terraform-google-modules/cloud-foundation-fabric
   ```
 
