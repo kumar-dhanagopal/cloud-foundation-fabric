@@ -77,7 +77,7 @@ Before we deploy the architecture, you will need the following information:
 1. After cloning the repo, and going through the prerequisites, head back to the cloud shell editor.
 2. Make sure you’re in the following directory. if not, you can change your directory to it via the ‘cd’ command:
 
-       cloudshell_open/cloud-foundation-fabric/blueprints/cloud-operations/glb_and_armor
+       cloudshell_open/cloud-foundation-fabric/blueprints/networking/glb-and-armor
 
 3. Run the following command to initialize the terraform working directory:
 
